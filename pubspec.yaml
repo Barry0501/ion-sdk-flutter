@@ -13,4 +13,5 @@ dependencies:
   flutter_webrtc:
     git:
       url: https://github.com/Barry0501/flutter-webrtc
+      ref: 6d16a7bca0ec82870f410ba58bfe9b16d8480bb5
   protoo_client: ^0.3.0
